@@ -8,3 +8,9 @@ user 2 add new code again
 VFM E-docket statistics issues in global level -- “test”
 VFM E-docket statistics issues in global level -- “test”
 VFM E-docket statistics issues in global level -- “test”
+
+
+
+git log origin/master..master  查看本地有远端没有的commit
+
+git log origin/master..master
